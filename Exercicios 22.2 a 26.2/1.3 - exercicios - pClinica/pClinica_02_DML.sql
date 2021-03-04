@@ -29,3 +29,11 @@ VALUES ('Toddy', '26-12-2017', 3, 1),
 INSERT INTO Atendimentos(Descricao, DataAtendimento, IdVeterinario,IdPet)
 VALUES ('Banho e tosa', '27-2-2020', 2, 1),
 	   ('Banho', '28-2-2020', 1, 2)
+
+INSERT INTO Racas(Descricao,IdTipoPet)
+VALUES ('São Bernardo',1),
+	   ('Schnauzer Miniatura',1)
+
+INSERT INTO Racas(Descricao,IdTipoPet)
+VALUES ('Pastor-Alemão',1),
+	   ('Carne corso',1)

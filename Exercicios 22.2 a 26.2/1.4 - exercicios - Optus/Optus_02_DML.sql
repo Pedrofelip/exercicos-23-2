@@ -16,3 +16,6 @@ VALUES ('El Derek', '29-01-2021', 'Brasil', '43 min', 1, 1),
 
 INSERT INTO AlbumEstilo(IdAlbum,IdEstilo)
 VALUES (1,1),(2,3)
+
+INSERT INTO Albuns(Titulo,DataLancamento,Localizacao,QtdMinutos,Ativo,IdArtista)
+VALUES ('Paris', '23-12-2016', 'Brasil', '43 min', 0, 1)
